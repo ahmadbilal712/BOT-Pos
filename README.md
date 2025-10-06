@@ -17,15 +17,6 @@ A lightweight ERPNext app that **enhances the Point of Sale (POS) Item Selector*
 
 - [What exactly changes?](#what-exactly-changes)
 - [Installation (step-by-step)](#installation-step-by-step)
-- [Update / Uninstall](#update--uninstall)
-- [Configuration (POS Profile → Item Groups)](#configuration-pos-profile--item-groups)
-- [How it works under the hood](#how-it-works-under-the-hood)
-- [Troubleshooting](#troubleshooting)
-- [Bench cheat-sheet](#bench-cheat-sheet)
-- [File structure](#file-structure)
-- [Known limitations](#known-limitations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
