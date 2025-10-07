@@ -56,3 +56,8 @@ bench --site mysite.local install-app bot_pos
 bench build --app bot_pos
 bench --site mysite.local clear-cache
 bench restart
+
+# 5) Uninstall App & Remove
+bench --site mysite.local uninstall-app bot_pos
+cd /apps
+rm -rf bot_pos
